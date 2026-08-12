@@ -1,15 +1,19 @@
 1.1 Security Control Types and Categories
 1.1	Compare and contrast various types of Security Controls
 -	Control types can fit into multiple categories based on context
+
+
 Security Control Definition
 Security measures for countering and minimizing loss or unavailability of services or apps due to vulnerabilities. The terms safeguards and countermeasures may seem to be used interchangeably. Safeguards are proactive (reduce likelihood of occurrence). Countermeasures are reactive (reduce impact after occurrence)
 Control Categories	Control Types
-Technical	Preventive
-Managerial	Deterrent
-Operational	Detective
-Physical	Corrective
-	Compensating
-	Directive
+Technical	        Preventive
+Managerial	        Deterrent
+Operational	        Detective
+Physical	        Corrective
+Compensating
+Directive
+
+
 Control Categories
 Technical
 -	Hardware or software mechanisms used to manage access to resources and systems and provide protection for those resources and systems.
@@ -23,6 +27,7 @@ Managerial
 Operational
 -	Help ensure that the day-to-day operations of an organization comply with their overall security. Primarily implemented and executed by people instead of systems. 
 -	People (doing stuff) 
+
 Control Categories Examples:
 Technical 	Physical	Managerial	Operational
 Encryption	Guards	Policies	Awareness Training
@@ -33,6 +38,7 @@ Access Control Lists (ACLs)	Guard Dogs	Data Classification
 Firewalls, Routers	Video Cameras	Security Training	
 IDS/IPS	Alarms	Risk Awareness	
 	Laptop Lock	Vulnerability Assessments	
+
 Control Types:
 Deterrent
 -	Deployed to discourage violation of security policies.
