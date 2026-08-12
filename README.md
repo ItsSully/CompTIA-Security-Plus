@@ -120,7 +120,7 @@ Resources I use during my studies include:
 * [ ] Continue developing practical cybersecurity projects
 * [ ] Complete TryHackMe SOC Level 1
 * [ ] Apply for cybersecurity placement opportunities
-* [ ] Sit the CompTIA Security+ exam later in 2026
+* [ ] Sit the CompTIA Security+ exam later in 2027
 
 ---
 
