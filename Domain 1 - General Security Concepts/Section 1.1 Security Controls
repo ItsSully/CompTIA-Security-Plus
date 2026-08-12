@@ -1,1 +1,56 @@
+1.1 Security Control Types and Categories
+1.1	Compare and contrast various types of Security Controls
+-	Control types can fit into multiple categories based on context
+Security Control Definition
+Security measures for countering and minimizing loss or unavailability of services or apps due to vulnerabilities. The terms safeguards and countermeasures may seem to be used interchangeably. Safeguards are proactive (reduce likelihood of occurrence). Countermeasures are reactive (reduce impact after occurrence)
+Control Categories	Control Types
+Technical	Preventive
+Managerial	Deterrent
+Operational	Detective
+Physical	Corrective
+	Compensating
+	Directive
+Control Categories
+Technical
+-	Hardware or software mechanisms used to manage access to resources and systems and provide protection for those resources and systems.
+-	Technology (HW and SW)
+Physical
+-	Security mechanisms focused on providing protection to the facility and real-world objects.
+-	Tangible (Touchable)
+Managerial
+-	Policies and procedures, administrative controls defined by an organizations security policy. Use planning and assessment methods to review the organization's ability to reduce and manage risk.
+-	Policies (and policy implementation)
+Operational
+-	Help ensure that the day-to-day operations of an organization comply with their overall security. Primarily implemented and executed by people instead of systems. 
+-	People (doing stuff) 
+Control Categories Examples:
+Technical 	Physical	Managerial	Operational
+Encryption	Guards	Policies	Awareness Training
+Smart Cards	Fences	Procedures	Configuration Management
+Passwords	Lights	Hiring Practices	Media Protection
+Biometrics	Motion Detectors	Background Checks	
+Access Control Lists (ACLs)	Guard Dogs	Data Classification	
+Firewalls, Routers	Video Cameras	Security Training	
+IDS/IPS	Alarms	Risk Awareness	
+	Laptop Lock	Vulnerability Assessments	
+Control Types:
+Deterrent
+-	Deployed to discourage violation of security policies.
+Preventive
+-	Deployed to thwart or stop unwanted or unauthorized activity from occurring.
+Detective
+-	Deployed to discover or detect unwanted or unauthorized activity.
+Compensating
+-	Provides options to other existing controls to aid in enforcement of security policies.
+Corrective
+-	Modifies the environment to return systems to normal after an unwanted or unauthorized activity has occurred.
+Directive
+-	Direct, confine, or control the actions of subjects to force or encourage compliance with security policies.
+
+Control Types Examples:
+Preventive	Deterrent	Detective	Directive	Corrective	Compensating
+Fences	Locks	Guards Dogs	Policies	Backups	Security Policies
+Biometrics	Security Badges	Motion Detectors	Procedures	Antivirus	Personnel Supervision
+Mantraps	Cameras	Guards	Standards	Patching	Work Task Procedures
+Pen Testing	Alarms	Honeypots	Guidelines	Forensic Analysis	
 
